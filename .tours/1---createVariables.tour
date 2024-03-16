@@ -3,13 +3,13 @@
   "title": "1 - Create Variables",
   "steps": [
     {
-      "title": "Introduction",
-      "description": "Welcome to the CodeTour for the Tune Squad Coaches App! You can follow along here, or in the [Microsoft Learn module](https://aka.ms/ExploreSportsWithCode/Module2). This tour start follows along with the [8th unit of this module](https://docs.microsoft.com/learn/modules/optimize-basketball-player-rest-breaks/8-initialize-app). \r\n\r\nClick Next to get started on adding functionality to your app!"
-    },
-    {
       "file": "main.js",
       "line": 1,
       "description": "The first thing you need to do is create variables that will help you keep track of everything happening in the game. On this line, you should create one variable called `playerMap` that is an empty map. This will keep track of each player by mapping their name with their list of PER values."
+    },
+    {
+      "title": "Introduction",
+      "description": "Welcome to the CodeTour for the Tune Squad Coaches App! You can follow along here, or in the [Microsoft Learn module](https://aka.ms/ExploreSportsWithCode/Module2). This tour start follows along with the [8th unit of this module](https://docs.microsoft.com/learn/modules/optimize-basketball-player-rest-breaks/8-initialize-app). \r\n\r\nClick Next to get started on adding functionality to your app!"
     },
     {
       "file": "main.js",
